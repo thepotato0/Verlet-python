@@ -1,6 +1,3 @@
-#pezzza's works verlet physics project in python !
+a reimplementation of pezzas work verlet integration made in python
 
-original project was in c++ but here is a version made in python
-
-original video: https://www.youtube.com/watch?v=lS_qeBy3aQI
-
+[original project](https://github.com/PoroCoco/Physics-Engine-Verlet)
